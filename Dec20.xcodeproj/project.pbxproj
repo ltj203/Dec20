@@ -16,6 +16,32 @@
 		CED4E3F31682D43000D163AB /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = CED4E3F21682D43000D163AB /* Default.png */; };
 		CED4E3F51682D43000D163AB /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CED4E3F41682D43000D163AB /* Default@2x.png */; };
 		CED4E3F71682D43000D163AB /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CED4E3F61682D43000D163AB /* Default-568h@2x.png */; };
+		CED4E3FF1682D44400D163AB /* TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CED4E3FE1682D44400D163AB /* TableViewController.m */; };
+		CED4E4051683A19000D163AB /* Model.m in Sources */ = {isa = PBXBuildFile; fileRef = CED4E4041683A19000D163AB /* Model.m */; };
+		CED4E4071683CC4B00D163AB /* clonetroopers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4061683CC4B00D163AB /* clonetroopers.jpg */; };
+		CED4E4121683CEEC00D163AB /* mandalorianguard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4081683CEEC00D163AB /* mandalorianguard.jpg */; };
+		CED4E4131683CEEC00D163AB /* moncalamari.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4091683CEEC00D163AB /* moncalamari.jpg */; };
+		CED4E4141683CEEC00D163AB /* nabooroyalguards.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E40A1683CEEC00D163AB /* nabooroyalguards.jpg */; };
+		CED4E4151683CEEC00D163AB /* nabooroyalhandmaidens.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E40B1683CEEC00D163AB /* nabooroyalhandmaidens.jpg */; };
+		CED4E4161683CEEC00D163AB /* nightsisters.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E40C1683CEEC00D163AB /* nightsisters.jpg */; };
+		CED4E4171683CEEC00D163AB /* nightsisterzombies.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E40D1683CEEC00D163AB /* nightsisterzombies.jpg */; };
+		CED4E4181683CEEC00D163AB /* onderonrebels.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E40E1683CEEC00D163AB /* onderonrebels.jpg */; };
+		CED4E4191683CEEC00D163AB /* patitites.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E40F1683CEEC00D163AB /* patitites.jpg */; };
+		CED4E41A1683CEEC00D163AB /* podracers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4101683CEEC00D163AB /* podracers.jpg */; };
+		CED4E41B1683CEEC00D163AB /* quarren.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4111683CEEC00D163AB /* quarren.jpg */; };
+		CED4E41D1683CF2B00D163AB /* deathwatch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E41C1683CF2B00D163AB /* deathwatch.jpg */; };
+		CED4E42A1683CF3800D163AB /* ewoks.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E41E1683CF3800D163AB /* ewoks.jpg */; };
+		CED4E42B1683CF3800D163AB /* galacticempire.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E41F1683CF3800D163AB /* galacticempire.jpg */; };
+		CED4E42C1683CF3800D163AB /* galacticrepublic.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4201683CF3800D163AB /* galacticrepublic.jpg */; };
+		CED4E42D1683CF3800D163AB /* galacticsenate.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4211683CF3800D163AB /* galacticsenate.jpg */; };
+		CED4E42E1683CF3800D163AB /* gungangrandarmy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4221683CF3800D163AB /* gungangrandarmy.jpg */; };
+		CED4E42F1683CF3800D163AB /* gungans.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4231683CF3800D163AB /* gungans.jpg */; };
+		CED4E4301683CF3800D163AB /* jawas.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4241683CF3800D163AB /* jawas.jpg */; };
+		CED4E4311683CF3800D163AB /* jediorder.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4251683CF3800D163AB /* jediorder.jpg */; };
+		CED4E4321683CF3800D163AB /* junkers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4261683CF3800D163AB /* junkers.jpg */; };
+		CED4E4331683CF3800D163AB /* kagewarriors.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4271683CF3800D163AB /* kagewarriors.jpg */; };
+		CED4E4341683CF3800D163AB /* kindalo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4281683CF3800D163AB /* kindalo.jpg */; };
+		CED4E4351683CF3800D163AB /* lurmen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4291683CF3800D163AB /* lurmen.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +58,34 @@
 		CED4E3F21682D43000D163AB /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		CED4E3F41682D43000D163AB /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		CED4E3F61682D43000D163AB /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		CED4E3FD1682D44400D163AB /* TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewController.h; sourceTree = "<group>"; };
+		CED4E3FE1682D44400D163AB /* TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewController.m; sourceTree = "<group>"; };
+		CED4E4031683A19000D163AB /* Model.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Model.h; sourceTree = "<group>"; };
+		CED4E4041683A19000D163AB /* Model.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Model.m; sourceTree = "<group>"; };
+		CED4E4061683CC4B00D163AB /* clonetroopers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = clonetroopers.jpg; sourceTree = "<group>"; };
+		CED4E4081683CEEC00D163AB /* mandalorianguard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mandalorianguard.jpg; sourceTree = "<group>"; };
+		CED4E4091683CEEC00D163AB /* moncalamari.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = moncalamari.jpg; sourceTree = "<group>"; };
+		CED4E40A1683CEEC00D163AB /* nabooroyalguards.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nabooroyalguards.jpg; sourceTree = "<group>"; };
+		CED4E40B1683CEEC00D163AB /* nabooroyalhandmaidens.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nabooroyalhandmaidens.jpg; sourceTree = "<group>"; };
+		CED4E40C1683CEEC00D163AB /* nightsisters.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nightsisters.jpg; sourceTree = "<group>"; };
+		CED4E40D1683CEEC00D163AB /* nightsisterzombies.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nightsisterzombies.jpg; sourceTree = "<group>"; };
+		CED4E40E1683CEEC00D163AB /* onderonrebels.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = onderonrebels.jpg; sourceTree = "<group>"; };
+		CED4E40F1683CEEC00D163AB /* patitites.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = patitites.jpg; sourceTree = "<group>"; };
+		CED4E4101683CEEC00D163AB /* podracers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = podracers.jpg; sourceTree = "<group>"; };
+		CED4E4111683CEEC00D163AB /* quarren.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = quarren.jpg; sourceTree = "<group>"; };
+		CED4E41C1683CF2B00D163AB /* deathwatch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = deathwatch.jpg; sourceTree = "<group>"; };
+		CED4E41E1683CF3800D163AB /* ewoks.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ewoks.jpg; sourceTree = "<group>"; };
+		CED4E41F1683CF3800D163AB /* galacticempire.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = galacticempire.jpg; sourceTree = "<group>"; };
+		CED4E4201683CF3800D163AB /* galacticrepublic.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = galacticrepublic.jpg; sourceTree = "<group>"; };
+		CED4E4211683CF3800D163AB /* galacticsenate.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = galacticsenate.jpg; sourceTree = "<group>"; };
+		CED4E4221683CF3800D163AB /* gungangrandarmy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gungangrandarmy.jpg; sourceTree = "<group>"; };
+		CED4E4231683CF3800D163AB /* gungans.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gungans.jpg; sourceTree = "<group>"; };
+		CED4E4241683CF3800D163AB /* jawas.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jawas.jpg; sourceTree = "<group>"; };
+		CED4E4251683CF3800D163AB /* jediorder.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jediorder.jpg; sourceTree = "<group>"; };
+		CED4E4261683CF3800D163AB /* junkers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = junkers.jpg; sourceTree = "<group>"; };
+		CED4E4271683CF3800D163AB /* kagewarriors.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kagewarriors.jpg; sourceTree = "<group>"; };
+		CED4E4281683CF3800D163AB /* kindalo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kindalo.jpg; sourceTree = "<group>"; };
+		CED4E4291683CF3800D163AB /* lurmen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lurmen.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +134,10 @@
 			children = (
 				CED4E3EF1682D43000D163AB /* Dec20AppDelegate.h */,
 				CED4E3F01682D43000D163AB /* Dec20AppDelegate.m */,
+				CED4E3FD1682D44400D163AB /* TableViewController.h */,
+				CED4E3FE1682D44400D163AB /* TableViewController.m */,
+				CED4E4031683A19000D163AB /* Model.h */,
+				CED4E4041683A19000D163AB /* Model.m */,
 				CED4E3E71682D43000D163AB /* Supporting Files */,
 			);
 			path = Dec20;
@@ -88,6 +146,30 @@
 		CED4E3E71682D43000D163AB /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CED4E41E1683CF3800D163AB /* ewoks.jpg */,
+				CED4E41F1683CF3800D163AB /* galacticempire.jpg */,
+				CED4E4201683CF3800D163AB /* galacticrepublic.jpg */,
+				CED4E4211683CF3800D163AB /* galacticsenate.jpg */,
+				CED4E4221683CF3800D163AB /* gungangrandarmy.jpg */,
+				CED4E4231683CF3800D163AB /* gungans.jpg */,
+				CED4E4241683CF3800D163AB /* jawas.jpg */,
+				CED4E4251683CF3800D163AB /* jediorder.jpg */,
+				CED4E4261683CF3800D163AB /* junkers.jpg */,
+				CED4E4271683CF3800D163AB /* kagewarriors.jpg */,
+				CED4E4281683CF3800D163AB /* kindalo.jpg */,
+				CED4E4291683CF3800D163AB /* lurmen.jpg */,
+				CED4E41C1683CF2B00D163AB /* deathwatch.jpg */,
+				CED4E4081683CEEC00D163AB /* mandalorianguard.jpg */,
+				CED4E4091683CEEC00D163AB /* moncalamari.jpg */,
+				CED4E40A1683CEEC00D163AB /* nabooroyalguards.jpg */,
+				CED4E40B1683CEEC00D163AB /* nabooroyalhandmaidens.jpg */,
+				CED4E40C1683CEEC00D163AB /* nightsisters.jpg */,
+				CED4E40D1683CEEC00D163AB /* nightsisterzombies.jpg */,
+				CED4E40E1683CEEC00D163AB /* onderonrebels.jpg */,
+				CED4E40F1683CEEC00D163AB /* patitites.jpg */,
+				CED4E4101683CEEC00D163AB /* podracers.jpg */,
+				CED4E4111683CEEC00D163AB /* quarren.jpg */,
+				CED4E4061683CC4B00D163AB /* clonetroopers.jpg */,
 				CED4E3E81682D43000D163AB /* Dec20-Info.plist */,
 				CED4E3E91682D43000D163AB /* InfoPlist.strings */,
 				CED4E3EC1682D43000D163AB /* main.m */,
@@ -155,6 +237,30 @@
 				CED4E3F31682D43000D163AB /* Default.png in Resources */,
 				CED4E3F51682D43000D163AB /* Default@2x.png in Resources */,
 				CED4E3F71682D43000D163AB /* Default-568h@2x.png in Resources */,
+				CED4E4071683CC4B00D163AB /* clonetroopers.jpg in Resources */,
+				CED4E4121683CEEC00D163AB /* mandalorianguard.jpg in Resources */,
+				CED4E4131683CEEC00D163AB /* moncalamari.jpg in Resources */,
+				CED4E4141683CEEC00D163AB /* nabooroyalguards.jpg in Resources */,
+				CED4E4151683CEEC00D163AB /* nabooroyalhandmaidens.jpg in Resources */,
+				CED4E4161683CEEC00D163AB /* nightsisters.jpg in Resources */,
+				CED4E4171683CEEC00D163AB /* nightsisterzombies.jpg in Resources */,
+				CED4E4181683CEEC00D163AB /* onderonrebels.jpg in Resources */,
+				CED4E4191683CEEC00D163AB /* patitites.jpg in Resources */,
+				CED4E41A1683CEEC00D163AB /* podracers.jpg in Resources */,
+				CED4E41B1683CEEC00D163AB /* quarren.jpg in Resources */,
+				CED4E41D1683CF2B00D163AB /* deathwatch.jpg in Resources */,
+				CED4E42A1683CF3800D163AB /* ewoks.jpg in Resources */,
+				CED4E42B1683CF3800D163AB /* galacticempire.jpg in Resources */,
+				CED4E42C1683CF3800D163AB /* galacticrepublic.jpg in Resources */,
+				CED4E42D1683CF3800D163AB /* galacticsenate.jpg in Resources */,
+				CED4E42E1683CF3800D163AB /* gungangrandarmy.jpg in Resources */,
+				CED4E42F1683CF3800D163AB /* gungans.jpg in Resources */,
+				CED4E4301683CF3800D163AB /* jawas.jpg in Resources */,
+				CED4E4311683CF3800D163AB /* jediorder.jpg in Resources */,
+				CED4E4321683CF3800D163AB /* junkers.jpg in Resources */,
+				CED4E4331683CF3800D163AB /* kagewarriors.jpg in Resources */,
+				CED4E4341683CF3800D163AB /* kindalo.jpg in Resources */,
+				CED4E4351683CF3800D163AB /* lurmen.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -167,6 +273,8 @@
 			files = (
 				CED4E3ED1682D43000D163AB /* main.m in Sources */,
 				CED4E3F11682D43000D163AB /* Dec20AppDelegate.m in Sources */,
+				CED4E3FF1682D44400D163AB /* TableViewController.m in Sources */,
+				CED4E4051683A19000D163AB /* Model.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

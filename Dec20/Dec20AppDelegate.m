@@ -7,14 +7,23 @@
 //
 
 #import "Dec20AppDelegate.h"
+#import "Model.h"
+#import "TableViewController.h"
 
 @implementation Dec20AppDelegate
+@synthesize window = _window;
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     // Override point for customization after application launch.
-    self.window.backgroundColor = [UIColor whiteColor];
+    
+    Model *model = [[Model alloc] init];
+    
+    TableViewController *tableViewController = [[TableViewController alloc] initWithStyle:UITableViewStyleGrouped model: model indexPath: [NSIndexPath indexPathWithIndex:0]];
+    
+    self.window.rootViewController = [[UINavigationController alloc] initWithRootViewController:tableViewController];
+    
     [self.window makeKeyAndVisible];
     return YES;
 }
