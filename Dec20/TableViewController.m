@@ -156,8 +156,17 @@
         string = [@"http://starwars.com/explore/encyclopedia/groups/" stringByAppendingString:string];
 
         NSURL *url = [NSURL URLWithString:string];
-        NSData *data = [NSData dataWithContentsOfURL:url];
-    
+        
+        NSMutableURLRequest *request = [NSMutableURLRequest requestWithURL:url];
+        [request setValue:@"Mozilla/5.0 (iPhone)" forHTTPHeaderField:@"User-Agent"];
+        
+        NSURLResponse *response;
+        NSError *error;
+        
+        //NSData *data = [NSData dataWithContentsOfURL:url];
+        
+        NSData *data = [NSURLConnection sendSynchronousRequest:request returningResponse:&response error:&error];
+        
         if (data == nil) {
             NSLog(@"could not load URL %@", url);
         } else {

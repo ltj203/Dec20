@@ -84,7 +84,7 @@
                     END,
                     BEGIN @"Senate Guard"
                     END,
-                    BEGIN @"Separatist Alliance"
+                    BEGIN @"Separatists"
                     END,
                     BEGIN @"Sith"
                     END,

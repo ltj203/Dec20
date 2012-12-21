@@ -27,7 +27,6 @@
 		CED4E4171683CEEC00D163AB /* nightsisterzombies.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E40D1683CEEC00D163AB /* nightsisterzombies.jpg */; };
 		CED4E4181683CEEC00D163AB /* onderonrebels.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E40E1683CEEC00D163AB /* onderonrebels.jpg */; };
 		CED4E4191683CEEC00D163AB /* patitites.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E40F1683CEEC00D163AB /* patitites.jpg */; };
-		CED4E41A1683CEEC00D163AB /* podracers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4101683CEEC00D163AB /* podracers.jpg */; };
 		CED4E41B1683CEEC00D163AB /* quarren.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4111683CEEC00D163AB /* quarren.jpg */; };
 		CED4E41D1683CF2B00D163AB /* deathwatch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E41C1683CF2B00D163AB /* deathwatch.jpg */; };
 		CED4E42A1683CF3800D163AB /* ewoks.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E41E1683CF3800D163AB /* ewoks.jpg */; };
@@ -42,6 +41,22 @@
 		CED4E4331683CF3800D163AB /* kagewarriors.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4271683CF3800D163AB /* kagewarriors.jpg */; };
 		CED4E4341683CF3800D163AB /* kindalo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4281683CF3800D163AB /* kindalo.jpg */; };
 		CED4E4351683CF3800D163AB /* lurmen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E4291683CF3800D163AB /* lurmen.jpg */; };
+		CED4E446168413E000D163AB /* podracerpilots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E436168413DF00D163AB /* podracerpilots.jpg */; };
+		CED4E447168413E000D163AB /* rebelalliance.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E437168413DF00D163AB /* rebelalliance.jpg */; };
+		CED4E448168413E000D163AB /* rebelpilots.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E438168413DF00D163AB /* rebelpilots.jpg */; };
+		CED4E449168413E000D163AB /* rebeltroopers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E439168413DF00D163AB /* rebeltroopers.jpg */; };
+		CED4E44A168413E000D163AB /* senateguard.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E43A168413DF00D163AB /* senateguard.jpg */; };
+		CED4E44C168413E000D163AB /* sith.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E43C168413DF00D163AB /* sith.jpg */; };
+		CED4E44D168413E000D163AB /* stormtroopers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E43D168413DF00D163AB /* stormtroopers.jpg */; };
+		CED4E44E168413E000D163AB /* talz.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E43E168413DF00D163AB /* talz.jpg */; };
+		CED4E44F168413E000D163AB /* tradefederation.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E43F168413DF00D163AB /* tradefederation.jpg */; };
+		CED4E450168413E000D163AB /* tuskenraiders.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E440168413DF00D163AB /* tuskenraiders.jpg */; };
+		CED4E451168413E000D163AB /* twileks.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E441168413DF00D163AB /* twileks.jpg */; };
+		CED4E452168413E000D163AB /* umbarans.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E442168413DF00D163AB /* umbarans.jpg */; };
+		CED4E453168413E000D163AB /* weequaypirates.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E443168413DF00D163AB /* weequaypirates.jpg */; };
+		CED4E454168413E000D163AB /* wookiees.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E444168413DF00D163AB /* wookiees.jpg */; };
+		CED4E455168413E000D163AB /* zygerrians.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E445168413E000D163AB /* zygerrians.jpg */; };
+		CED4E459168414AD00D163AB /* separatists.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CED4E458168414AD00D163AB /* separatists.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,7 +86,6 @@
 		CED4E40D1683CEEC00D163AB /* nightsisterzombies.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nightsisterzombies.jpg; sourceTree = "<group>"; };
 		CED4E40E1683CEEC00D163AB /* onderonrebels.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = onderonrebels.jpg; sourceTree = "<group>"; };
 		CED4E40F1683CEEC00D163AB /* patitites.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = patitites.jpg; sourceTree = "<group>"; };
-		CED4E4101683CEEC00D163AB /* podracers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = podracers.jpg; sourceTree = "<group>"; };
 		CED4E4111683CEEC00D163AB /* quarren.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = quarren.jpg; sourceTree = "<group>"; };
 		CED4E41C1683CF2B00D163AB /* deathwatch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = deathwatch.jpg; sourceTree = "<group>"; };
 		CED4E41E1683CF3800D163AB /* ewoks.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ewoks.jpg; sourceTree = "<group>"; };
@@ -86,6 +100,22 @@
 		CED4E4271683CF3800D163AB /* kagewarriors.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kagewarriors.jpg; sourceTree = "<group>"; };
 		CED4E4281683CF3800D163AB /* kindalo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kindalo.jpg; sourceTree = "<group>"; };
 		CED4E4291683CF3800D163AB /* lurmen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lurmen.jpg; sourceTree = "<group>"; };
+		CED4E436168413DF00D163AB /* podracerpilots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = podracerpilots.jpg; sourceTree = "<group>"; };
+		CED4E437168413DF00D163AB /* rebelalliance.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rebelalliance.jpg; sourceTree = "<group>"; };
+		CED4E438168413DF00D163AB /* rebelpilots.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rebelpilots.jpg; sourceTree = "<group>"; };
+		CED4E439168413DF00D163AB /* rebeltroopers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rebeltroopers.jpg; sourceTree = "<group>"; };
+		CED4E43A168413DF00D163AB /* senateguard.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = senateguard.jpg; sourceTree = "<group>"; };
+		CED4E43C168413DF00D163AB /* sith.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sith.jpg; sourceTree = "<group>"; };
+		CED4E43D168413DF00D163AB /* stormtroopers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stormtroopers.jpg; sourceTree = "<group>"; };
+		CED4E43E168413DF00D163AB /* talz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = talz.jpg; sourceTree = "<group>"; };
+		CED4E43F168413DF00D163AB /* tradefederation.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tradefederation.jpg; sourceTree = "<group>"; };
+		CED4E440168413DF00D163AB /* tuskenraiders.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tuskenraiders.jpg; sourceTree = "<group>"; };
+		CED4E441168413DF00D163AB /* twileks.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = twileks.jpg; sourceTree = "<group>"; };
+		CED4E442168413DF00D163AB /* umbarans.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = umbarans.jpg; sourceTree = "<group>"; };
+		CED4E443168413DF00D163AB /* weequaypirates.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = weequaypirates.jpg; sourceTree = "<group>"; };
+		CED4E444168413DF00D163AB /* wookiees.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wookiees.jpg; sourceTree = "<group>"; };
+		CED4E445168413E000D163AB /* zygerrians.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = zygerrians.jpg; sourceTree = "<group>"; };
+		CED4E458168414AD00D163AB /* separatists.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = separatists.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +176,22 @@
 		CED4E3E71682D43000D163AB /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CED4E458168414AD00D163AB /* separatists.jpg */,
+				CED4E436168413DF00D163AB /* podracerpilots.jpg */,
+				CED4E437168413DF00D163AB /* rebelalliance.jpg */,
+				CED4E438168413DF00D163AB /* rebelpilots.jpg */,
+				CED4E439168413DF00D163AB /* rebeltroopers.jpg */,
+				CED4E43A168413DF00D163AB /* senateguard.jpg */,
+				CED4E43C168413DF00D163AB /* sith.jpg */,
+				CED4E43D168413DF00D163AB /* stormtroopers.jpg */,
+				CED4E43E168413DF00D163AB /* talz.jpg */,
+				CED4E43F168413DF00D163AB /* tradefederation.jpg */,
+				CED4E440168413DF00D163AB /* tuskenraiders.jpg */,
+				CED4E441168413DF00D163AB /* twileks.jpg */,
+				CED4E442168413DF00D163AB /* umbarans.jpg */,
+				CED4E443168413DF00D163AB /* weequaypirates.jpg */,
+				CED4E444168413DF00D163AB /* wookiees.jpg */,
+				CED4E445168413E000D163AB /* zygerrians.jpg */,
 				CED4E41E1683CF3800D163AB /* ewoks.jpg */,
 				CED4E41F1683CF3800D163AB /* galacticempire.jpg */,
 				CED4E4201683CF3800D163AB /* galacticrepublic.jpg */,
@@ -167,7 +213,6 @@
 				CED4E40D1683CEEC00D163AB /* nightsisterzombies.jpg */,
 				CED4E40E1683CEEC00D163AB /* onderonrebels.jpg */,
 				CED4E40F1683CEEC00D163AB /* patitites.jpg */,
-				CED4E4101683CEEC00D163AB /* podracers.jpg */,
 				CED4E4111683CEEC00D163AB /* quarren.jpg */,
 				CED4E4061683CC4B00D163AB /* clonetroopers.jpg */,
 				CED4E3E81682D43000D163AB /* Dec20-Info.plist */,
@@ -246,7 +291,6 @@
 				CED4E4171683CEEC00D163AB /* nightsisterzombies.jpg in Resources */,
 				CED4E4181683CEEC00D163AB /* onderonrebels.jpg in Resources */,
 				CED4E4191683CEEC00D163AB /* patitites.jpg in Resources */,
-				CED4E41A1683CEEC00D163AB /* podracers.jpg in Resources */,
 				CED4E41B1683CEEC00D163AB /* quarren.jpg in Resources */,
 				CED4E41D1683CF2B00D163AB /* deathwatch.jpg in Resources */,
 				CED4E42A1683CF3800D163AB /* ewoks.jpg in Resources */,
@@ -261,6 +305,22 @@
 				CED4E4331683CF3800D163AB /* kagewarriors.jpg in Resources */,
 				CED4E4341683CF3800D163AB /* kindalo.jpg in Resources */,
 				CED4E4351683CF3800D163AB /* lurmen.jpg in Resources */,
+				CED4E446168413E000D163AB /* podracerpilots.jpg in Resources */,
+				CED4E447168413E000D163AB /* rebelalliance.jpg in Resources */,
+				CED4E448168413E000D163AB /* rebelpilots.jpg in Resources */,
+				CED4E449168413E000D163AB /* rebeltroopers.jpg in Resources */,
+				CED4E44A168413E000D163AB /* senateguard.jpg in Resources */,
+				CED4E44C168413E000D163AB /* sith.jpg in Resources */,
+				CED4E44D168413E000D163AB /* stormtroopers.jpg in Resources */,
+				CED4E44E168413E000D163AB /* talz.jpg in Resources */,
+				CED4E44F168413E000D163AB /* tradefederation.jpg in Resources */,
+				CED4E450168413E000D163AB /* tuskenraiders.jpg in Resources */,
+				CED4E451168413E000D163AB /* twileks.jpg in Resources */,
+				CED4E452168413E000D163AB /* umbarans.jpg in Resources */,
+				CED4E453168413E000D163AB /* weequaypirates.jpg in Resources */,
+				CED4E454168413E000D163AB /* wookiees.jpg in Resources */,
+				CED4E455168413E000D163AB /* zygerrians.jpg in Resources */,
+				CED4E459168414AD00D163AB /* separatists.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
